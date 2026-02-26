@@ -46,8 +46,6 @@ Healthcare organizations collect large volumes of patient feedback from surveys,
 <!-- Add a screenshot of the results panel with KPIs and themes -->
 ![Results](docs/screenshot-results.png)
 
-*(Placeholder: add `docs/screenshot-main.png` and `docs/screenshot-results.png` from your local run.)*
-
 ---
 
 ## How it works
