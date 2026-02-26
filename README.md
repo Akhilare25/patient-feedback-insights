@@ -97,7 +97,7 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ---
 
-## Demo steps (recruiter-ready)
+## Demo steps
 
 1. Open the app; click **Load sample data** to load 12 patient feedback rows.
 2. Click **Generate insights**; wait a few seconds (or instant if mock).
@@ -107,12 +107,6 @@ Open [http://localhost:3000](http://localhost:3000).
 6. Use **Download sample CSV** then **Upload CSV** to show CSV flow; use **Clear** to reset.
 
 ---
-
-## Resume bullets
-
-- **Built a full-stack Patient Feedback Insights Copilot** (Next.js 14, TypeScript, OpenAI) that ingests patient feedback via CSV or paste, validates and chunks payloads, and returns executive-style reports (KPIs, themes with evidence quotes, sentiment, prioritized recommendations, and safety flags) with optional mock mode when no API key is set.
-- **Designed and implemented a healthcare-focused analysis API** with Zod-validated request bodies, character-based chunking for scale, and deterministic mock responses that compute theme counts and evidence quotes from real input for demo and testing without external services.
-- **Shipped a recruiter-ready demo UI** with a two-column stepper workflow, sticky results panel and section navigation, PHI detection guardrail with user confirmation, and one-click exports (clipboard, JSON, markdown report) plus sample data and CSV download for instant walkthroughs.
 
 # patient-feedback-insights
 AI-powered analysis of healthcare patient feedback
